@@ -28,7 +28,6 @@
 - **Institution:** Netaji Subhas University of Technology (NSUT), New Delhi
 - **Team:** Team THERMOS
 - **Live Web Application:** [https://aevum11.vercel.app/]
-- **Presentation Deck:** [Google Slides Presentation](https://docs.google.com/presentation/d/1ORwPvLgP6Ni3FeG5BahZI_S0C2mZuAu9/edit?slide=id.p1#slide=id.p1)
 - **Demo Video Walkthrough:** [https://www.youtube.com/watch?v=U83sUWl81Qw]
 - **Repository URL:** [https://github.com/codebyshubhamm/aevum11]
 - **Team Composition (6 Members):**

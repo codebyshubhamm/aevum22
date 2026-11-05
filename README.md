@@ -1,10 +1,7 @@
 # THERMOS — Thermal Event Recognition and Monitoring Operational System
 
-[![SIH 2026](https://img.shields.io/badge/SIH-2026-orange.svg?style=flat-square)](https://www.sih.gov.in/)
-[![Problem Statement](https://img.shields.io/badge/PS_ID-SIH26162-blue.svg?style=flat-square)](https://www.sih.gov.in/)
 [![Category](https://img.shields.io/badge/Category-Software-green.svg?style=flat-square)](https://www.sih.gov.in/)
 [![Theme](https://img.shields.io/badge/Theme-Disaster_Management-red.svg?style=flat-square)](https://www.sih.gov.in/)
-[![Live App](https://img.shields.io/badge/Demo-Live_on_Vercel-success.svg?style=flat-square&logo=vercel)](https://sih-2026-nu-ten.vercel.app/)
 [![React](https://img.shields.io/badge/Frontend-React_19_+_Vite-61dafb.svg?style=flat-square&logo=react)](https://react.dev/)
 [![TailwindCSS v4](https://img.shields.io/badge/Styling-TailwindCSS_v4-38bdf8.svg?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
 [![MapLibre GL](https://img.shields.io/badge/Maps-MapLibre_GL-3274a3.svg?style=flat-square)](https://maplibre.org/)
@@ -13,8 +10,6 @@
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688.svg?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![AI Copilot](https://img.shields.io/badge/RAG_AI-Gemini_Disaster_Copilot-8E75B2.svg?style=flat-square)](https://deepmind.google/technologies/gemini/)
 
-> **Smart India Hackathon (SIH 2026) Project Repository**  
-> **AI-Powered Earth Observation, Geospatial ML & Tactical Intelligence Platform for Real-Time Satellite Thermal Anomaly Classification, Risk Prioritization, and Emergency Dispatch.**
 
 ---
 

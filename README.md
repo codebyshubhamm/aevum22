@@ -16,7 +16,6 @@
 ## 1. Project Information
 
 - **Project Title:** THERMOS (Thermal Event Recognition and Monitoring Operational System)
-- **Problem Statement ID:** SIH26162
 - **PS Title:** AI-Based Detection and Classification of Industrial Fires and Persistent Thermal Sources Using NASA FIRMS, OSM & Satellite Data
 - **Category:** Software
 - **Theme:** Disaster Management

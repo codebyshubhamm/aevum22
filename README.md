@@ -27,10 +27,10 @@
 - **Theme:** Disaster Management
 - **Institution:** Netaji Subhas University of Technology (NSUT), New Delhi
 - **Team:** Team THERMOS
-- **Live Web Application:** [https://sih-2026-nu-ten.vercel.app/](https://sih-2026-nu-ten.vercel.app/)
+- **Live Web Application:** [https://aevum11.vercel.app/]
 - **Presentation Deck:** [Google Slides Presentation](https://docs.google.com/presentation/d/1ORwPvLgP6Ni3FeG5BahZI_S0C2mZuAu9/edit?slide=id.p1#slide=id.p1)
-- **Demo Video Walkthrough:** [Google Drive Video Demo](https://drive.google.com/drive/folders/16Wlb9OPWw7XWWOp1OCEa2qXNFlJxGEv3)
-- **Repository URL:** [https://github.com/codebyshubhamm/THERMOS-LIVE2](https://github.com/codebyshubhamm/THERMOS-LIVE2)
+- **Demo Video Walkthrough:** [https://www.youtube.com/watch?v=U83sUWl81Qw]
+- **Repository URL:** [https://github.com/codebyshubhamm/aevum11]
 - **Team Composition (6 Members):**
   - **Frontend Engineering & Spatial GIS:** MapLibre GL 2D/3D layers, Spatial clustering, WebGL Canvas architecture, responsive layout engineering.
   - **Tactical UI & Real-Time Visualization:** Incident triage queues, dynamic forensic drawers, Recharts analytics, telemetry streams.
@@ -431,12 +431,6 @@ docker exec -it thermos-api python seed.py
 
 ---
 
-## 13. Live Demo & Submission Links
-
-- **Live Web Application:** [https://sih-2026-nu-ten.vercel.app/](https://sih-2026-nu-ten.vercel.app/)
-- **Presentation Deck:** [Google Slides Presentation](https://docs.google.com/presentation/d/1ORwPvLgP6Ni3FeG5BahZI_S0C2mZuAu9/edit?slide=id.p1#slide=id.p1)
-- **Demo Video Walkthrough:** [Google Drive Video Demo](https://drive.google.com/drive/folders/16Wlb9OPWw7XWWOp1OCEa2qXNFlJxGEv3)
-- **GitHub Repository:** [https://github.com/codebyshubhamm/THERMOS-LIVE2](https://github.com/codebyshubhamm/THERMOS-LIVE2)
 
 ---
 
